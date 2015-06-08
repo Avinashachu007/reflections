@@ -1,0 +1,8 @@
+git remote =to see any remotes I have added to my git
+git remote add <any_name> <link to github> = to add a github repo
+git push <file_name> <branch_name> = to push the file or changes into the github 
+git remote -v = to give more details about the github repo
+
+
+When would you want to use a remote repository rather than keeping all your work local?
+because to sync across multiple devices and to collaborate with multiple peoples around the world.
