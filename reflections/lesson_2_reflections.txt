@@ -1,3 +1,11 @@
 
 What happens when you initialize a repository? Why do you need to do it?
 it turns ordinary folder into a git repo
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It is intermediate between the pwd and the repo.
+it offers changes occured after last commit
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When creatng a experimental features or add new features or other features which u are not declared as a final verion
